@@ -204,11 +204,13 @@
 		<main id="main" class="main" role="main">	
 		<article role="article" class="b-data"> 			
 			<div class="b-data__content" id="content">
-  
+  <script src="https://code.highcharts.com/highcharts.js"></script>
+<script src="https://code.highcharts.com/modules/sankey.js"></script>
+
   <script type="text/javascript">
     document.getElementsByTagName('article')[0].classList.add('b-data--no-img');
   </script>
-  <style>ol.snowfall,ul.snowfall{list-style:initial!important;font-size:medium!important;line-height:1.5!important}ol.snowfall>li,ul.snowfall>li{background:0 0!important;margin:0!important;padding:0!important}hr.snowfall{max-width:none!important}</style>
+  <style>ol.snowfall,ul.snowfall{list-style:initial!important;font-size:medium!important;line-height:1.5!important}ol.snowfall>li,ul.snowfall>li{background:0 0!important;margin:0!important;padding:0!important}hr.snowfall{max-width:none!important}.grafy{width:100%;min-height:77vh;margin:0;border:0}#csv{display:none}.grafimg{width:100%}</style>
 
   <div class="row-main row-main--article">
     <h1 class="b-data__title b-data__title--sm" id="snfl-title-div">
@@ -216,46 +218,98 @@
     </h1>
     <script>
       if (window.location.href.indexOf("www.irozhlas") < 0) {
-        document.getElementById("snfl-title-div").innerHTML = "Data z mobilů:<br>Praha se denně nafoukne o polovinu, v centru jsou návštěvníci v převaze";
+        document.getElementById("snfl-title-div").innerHTML = "Pojistka demokracie nebo nástroj ďábla?<br>Senát opravil v průměru každý čtvrtý návrh zákona, ukazují data";
       }
     </script>
   </div>
 
   <div class="row-main row-main--narrow"> 
     <p class="text-bold text-lg">
-      Skoro 140 tisíc lidí přijede do Prahy každý den za prací. Míří hlavně do kancelářských budov a do centra města. S nimi pak dorazí i přes půl milionu návštěvníků. Ukázala to analýza dat o pohybu mobilních telefonů, kterou si nyní město nechává zpracovat.
+      „Cokoliv vychází od Senátu, je od ďábla,” nešetřil kritikou na adresu horní komory prezident Miloš Zeman, který patří k jeho dlouhodobým odpůrcům. A není sám. Jeho „vyhladovění“ či zrušení prosazuje také premiér Andrej Babiš. Senátu vytýkají údajně snadnou přehlasovatelnost sněmovnou, jeho opravy ale prošly v 57 procentech případů. Úspěšnost pozměňovacích návrhů i aktivitu „pojistky demokracie“ podle stranického obsazení analyzovali datoví novináři serveru iROZHLAS.cz.
     </p>
   </div>
 
   <!--[[ZPRAVY_SNOWFALL_METADATA:]]-->
 
   <div class="row-main row-main--narrow">
-    <figure class="b-detail__img"><img src="https://interaktivni.rozhlas.cz/brexit/media/cover.jpg" width="100%" /><figcaption>Foto <a href='https://ctk.cz'>ČTK</a></figcaption></figure>
-    <div class="b-inline b-inline--left"><div class="b-inline__wrap"><div class="b-inline__content"><div class="text-sm">
-    <p>
-    <b>KAREL HYNEK MÁCHA</b>
-    </p><p>
-    Karel Hynek Mácha (16. listopadu 1810 Praha-Malá Strana[1] – 6. listopadu 1836 Litoměřice[2]) byl český básník a prozaik, představitel českého romantismu a zakladatel moderní české poezie. Proslavil se jak svým životem, tak dílem, jemuž dominuje Máj (1836).
-    </p>
-</div></div></div></div>
+    <figure class="b-detail__img"><img src="null" width="100%" /><figcaption>Foto <a href=''></a></figcaption></figure>
+    <p>Unikátní data o hlasováních, které prošly Senátem od roku 1996, nyní ukazují, že Senát „opravil“ v průměru každý čtvrtý návrh zákona postoupený sněmovnou. Má tak v legislativním procesu nezastupitelné místo. </p>
+<p>Vlastní iniciativou Senátu prošlo ke schválení 47 návrhů zákonů. Častěji tedy návrhy opravoval, než vytvářel. „Být opravářem zákonů není hanba, neboť to je podstatou legislativního poslání Senátu,“ upřesnil pro server iROZHLAS.cz expert na ústavní právo Jan Kysela. </p>
+</div><div class="row-main row-main--article"><div class="grafy" id="grafcelek">
+<img class="grafimg" src="https://www.irozhlas.cz/sites/default/files/uploader/grafcelek_200124-143236_nkr.jpeg">
+</div></div><div class="row-main row-main--narrow">
 
-<p>Během dne se lidé v Praze soustřeďují v okolí administrativních center a obchodů, po poledni se tak nejvíc zahustí okolí Andělu, centrum Prahy (Vodičkova ulice a Petrské náměstí) a Brumlovka nedaleko Budějovické. Na poslední jmenované adrese sídlí řada velkých korporací, mezi nimi i Microsoft nebo ČEZ. Pro srovnání, na zmíněných místech je ve „špičce“ okolo šesti stovek osob na jeden hektar, průměr Prahy je 25 obyvatel na <a href="https://cs.wikipedia.org/wiki/Hektar">hektar</a> (Václavské náměstí má rozlohu asi 4 hektary).</p>
-<p>Naopak v noci se nejvíc lidí se „namačká“ ve Vršovicích, jde o 430 osob na hektar.</p>
-<p>Detaily si můžete prohlédnout v následující mapě, kterou z dat mobilních operátorů zpracoval pražský <a href="http://www.iprpraha.cz/">Institut plánování a rozvoje</a>.</p>
-</div><div class="row-main row-main--article"><i>Pokud vás zajímá, „kolik“ lidí bývá ve dne a v noci ve vaší čtvrti, najděte si ji na mapě, přepněte se na časové řezy, vyberte přepínač hustota osob a potom pohybujte „posuvníkem“ nahoře.</i></div><div class="row-main row-main--narrow">
+</div><div class="row-main row-main--article"><i>Graf zobrazuje postup 3764 návrhů zákonů legislativním procesem, do jejichž projednání byl zapojen Senát v období listopad 1996 až srpen 2019 a jejichž projednávání bylo v tomto období ukončeno.</i></div><div class="row-main row-main--narrow">
 
-<h2 id="data-na-prodej">Data na prodej</h2>
+<br>
+
+<p> „Vedle těch zásadních zákonů, jež vyžadují souhlas Senátu kvůli garancím stability státní moci, Senát prostě je orgánem legislativní korekce, přičemž používá ‚červeného a oranžového praporku‘, jimiž signalizuje, že by měl být ten který zákon zastaven (zamítá) nebo změněn (vrací s pozměňovacími návrhy),“ dodává Kysela. Konečná odpovědnost je ale na Poslanecké sněmovně, která po vrácení Senátem znovu hlasuje o sněmovní nebo senátní verzi návrhu zákona. </p>
+<p>„Červený“ praporek padl na 130 návrhů, úspěšnost zamítnutí byla okolo 30 procent. </p>
+<h2 id="jak-data-číst">Jak data číst?</h2>
+<p><i>Tloušťka jednotlivých toků je určena počtem návrhů zákonů, které tou to cestou „protekly“ v absolutních číslech. V případě výsledku ve sněmovně není rozlišeno, v kolikátém čtení byl zákon schválen. U výsledků hlasování v Senátu není rozlišováno mezi tím, kdy Senát vyjádřil vůli se zákonem nezabývat a kdy Senát nepřijal usnesení. Jen v sedmi analyzovaných případech Senát návrh zákona neprojednal a zákon prošel dále automaticky, jsou proto zahrnuty také do této neutrální kategorie. 
+Zvláštní kategorií jsou ústavní zákony, volební zákony a zákon o jednacím řádu Senátu, které musí být Senátem explicitně schváleny. Pokud se tak nestane, jejich osud v tomto bodě končí.</i></p>
+<p>Senát za svou třiadvacetiletou historii přijal více než polovinu postoupených návrhů – konkrétně 1245. U 323 návrhů se rozhodl jimi nezabývat, nepřijmout usnesení nebo je neprojednal. Ve stejné podobě se tak vrátily sněmovně a od uvedení ve sbírce zákonů je dělil jen podpis hlavy státu.</p>
+<p>Senátoři posuzují návrhy ve výborech, na schůzích pak mohou odhlasovat postoupení dolní komoře s pozměňovacími návrhy. „Opravených“ návrhů vrátili 532, senátních verzí pak bylo schváleno 302. </p>
+<p>Právě postoj Poslanecké sněmovny k těmto pozměňovacím návrhům může být indikátorem toho, jaký vliv Senát v českém zákonodárném procesu má. Sněmovně se pak naopak podařilo schválit 289 návrhů v původní verzi bez posvěcení horní komory. </p>
+<h2 id="vyšší-aktivita-méně-úspěchů">Vyšší aktivita, méně úspěchů</h2>
+<p>Data ukazují, že Senát jde často „na ruku“ vládní koalici, pokud má tato koalice většinu v Senátu. V takovém případě méně často návrhy končí ve sněmovně s pozměňovacími návrhy – z celkových 1077 jich bylo „opraveno“ 197, tedy 18 procent. Dolní komora také častěji pozměňovací návrhy přijímá, celkem v 60 procentech případů.</p>
+</div><div class="row-main row-main--article"><div class="grafy" id="grafmajivetsinu">
+<img class="grafimg" src="https://www.irozhlas.cz/sites/default/files/uploader/grafmajivetsinu_200124-143236_nkr.jpeg">
+</div></div><div class="row-main row-main--narrow">
+
+<br>
+</div><div class="row-main row-main--article"><i>Dvě konečné hodnoty (zákon prošel bez nebo s posvěcením senátu) jsou založeny na tom, jestli bylo respektováno zamítnutí sněmovního návrhu, respektive zda byly přijaty senátní pozměňovací návrhy, nebo jestli sněmovnou zákon prošel v původním znění Senátu navzdory. Je tak hodnoceno, jestli je Senát ve své kontrolní funkci sněmovnou respektován.</i></div><div class="row-main row-main--narrow">
+<br>
+
+<p>„Senát je mnohem aktivnější, pokud je složení komor opačné – tedy vláda má důvěru a zároveň vládní koalice nemá většinu v Senátu. V tomto složení nemá Senát jen roli ,kývače‘,“ vysvětluje pro server iROZHLAS.cz Roman Chytilek, politolog z Fakulty sociálních studií Masarykovy univerzity.</p>
+<p>V opačném rozložení sil Senát projednal 1193 návrhů, vrátil jich 335. Tedy o deset procentních bodů více, než pokud je ovládán vládní koalicí. Sněmovna přijala 54 procent senátních verzí. </p>
+<p>„Odlišné složení se promítá ve vyšší aktivitě Senátu, avšak v menších úspěších v Poslanecké sněmovně. Kdyby měla vláda trvale většinu v obou komorách, bude dvoukomorová struktura fungovat jinak, Senát se omezí jen na technické opravy. Z vnitřního hlediska je dobře, když se v Senátu obtížněji skládá většina, když je třeba jednat a hledat shodu,“ vysvětluje Kysela. </p>
+</div><div class="row-main row-main--article"><div class="grafy" id="grafnemajivetsinu">
+<img class="grafimg" src="https://www.irozhlas.cz/sites/default/files/uploader/grafnemajivetsinu_200124-143236_nkr.jpeg">
+</div></div><div class="row-main row-main--narrow">
+
+<p>Senát svým složením kopíroval vládní koalice od svého založení za doby vlád Václava Klause, Josefa Tošovského i Miloše Zemana – díky opoziční smlouvě zde počítáme jako koalici spojení ČSSD a ODS. </p>
 <div class="b-inline b-inline--right"><div class="b-inline__wrap"><div class="b-inline__content"><div class="text-sm">
     <p>
-    <b>KAREL HYNEK MÁCHA</b>
+    <b>Použitá metodologie</b>
     </p><p>
-    Karel Hynek Mácha (16. listopadu 1810 Praha-Malá Strana[1] – 6. listopadu 1836 Litoměřice[2]) byl český básník a prozaik, představitel českého romantismu a zakladatel moderní české poezie. Proslavil se jak svým životem, tak dílem, jemuž dominuje Máj (1836).
+    U úřednických vlád jsou jako strany koalice posuzovány ty, které většinově hlasovaly pro vyslovení důvěry těmto vládám. Většina v Senátu je posuzována podle stranické příslušnosti senátorů a jejich členství v klubech, i když víme, že stranická příslušnost s hlasováním souvisí velmi volně. Posouzení, jestli má vláda v Senátu většinu, je vztažena k datu, kdy byl návrh zákona v Senátu projednáván. Je tak posuzováno, jestli je výsledek senátního hlasování ovlivňován tím, že je Senát složen obdobně jako sněmovna.
     </p>
 </div></div></div></div>
 
-<p>I pokud netelefonujeme nebo neposíláme SMS, telefon pravidelně komunikuje s vysílači v síti mobilního operátora. Z dat o síle signálu a použité anténě je možné odvodit, kde se přibližně telefon nachází a jak dlouhou dobu na místě strávil.</p>
-<p>Mobilní operátor má <a href="https://www.zakonyprolidi.cz/cs/2005-127/zneni-20160919#p97-3">„zákonnou povinnost“</a> takové informace uchovávat, a to půl roku do minulosti, přistupovat k nim ale mohou jen bezpečnostní složky, typicky policie nebo rozvědka.</p>
-<p>Operátoři ale obdobné informace mohou anonymizovat (tedy „zbavit“ identifikace konkrétního uživatele) a agregovat, tedy spojit informace o jednotlivcích do jakýchsi skupin. Výsledná obecná čísla pak přeprodávají dál, například marketingovým firmám či dopravním analytikům. Zpětně z nich nejde dovodit, kde se pohybuje každý jednotlivec, dávají ale určitý přehled o obecném chování obyvatel nějakého místa.</p>
+<p>Většinu tyto strany ztratily po senátních volbách 2000, kdy posílila na jejich úkor Čtyřkoalice. V senátu následně za vlád ČSSD posilovala ODS, která v roce 2006 pod vedením Mirka Topolánka také složila vládu. </p>
+<p>Dominance občanských demokratů (spolu s lidovci a zelenými) v obou komorách pak končí rokem 2010, kdy většinu v Senátu přebírá ČSSD, a Senát je tak navolen „opozičně“. K opětovné jednobarevnosti obou komor dochází opět s vládou Bohuslava Sobotky, kdy je ČSSD i hlavní stranou vládní koalice. S přeskupením politických sil po volbách 2017 je Senát opět složením opoziční, jelikož senátorské kluby ANO a ČSSD většinu nemají.</p>
+<p>Podle Kysely se situace příliš nezmění ani na konci letošního roku, kdy se po volbách obmění třetina křesel. „Voliči levice k senátním volbám příliš nechodí, proto bývá pravostředová orientace typická. Výjimkou je několikaleté období ‚oranžového Senátu‘, jemuž napomohl odpor k vládním stranám. Na podzim se dá očekávat další oslabení ČSSD, jinak se mi nezdá, že by tu měl být nějaký hegemon,“ uvedl Kysela. </p>
+<p>Dodává, že vládní hnutí ANO v senátních volbách příliš nevítězí, mandáty tak mohou na úkor ČSSD přibývat relativně rovnoměrně.</p>
+<p>Ačkoliv je Senát navolen opozičně, horní komora neslouží jen jako systematická opozice vládě, což mu bývá často vytýkáno jeho odpůrci. „Má-li však pocit, že vláda vede zemi směrem nejen nesprávným, ale zásadně špatným, jistě může své ústavní kompetence užívat méně zdrženlivě,“ doplňuje Kysela.</p>
+<h2 id="nástroj-ďábla">Nástroj ďábla</h2>
+<p>Kritikou nešetří například prezident Miloš Zeman či premiér Andrej Babiš. Zeman se během prosince loňského roku při podepisování daňového balíčku nechal slyšet, že „cokoliv vychází od Senátu, jest od ďábla“.</p>
+<p>„Útoky na svobodu pokračovaly i v uplynulém roce a jako vždy byly zdůvodňovány těmi nejlepšími úmysly,“ reagoval na kontroverzní výrok v novoročním projevu nedávno zesnulý šéf horní komory Parlamentu Jaroslav Kubera. </p>
+<div class="b-inline b-inline--left"><div class="b-inline__wrap"><div class="b-inline__content"><div class="text-sm">
+    <p>
+    <b>Volby do Senátu 2020</b>
+    </p><p>
+    Volit se bude ve 27 obvodech, jejich přehled nabízíme <a href="https://www.irozhlas.cz/volby/senatni-volby-2020">zde</a href>. ČSSD obhajuje 10 mandátů, KDU-ČSL 5, ANO 3, Zelení, STAN a ODS 2, SPOZ, Soukromníci a SLK po jednom mandátu. Volby proběhnou současně s krajskými volbami 2020.
+    </p>
+</div></div></div></div>
+
+<p>Zpochybňování dvoukomorového uspořádání Parlamentu ale zdaleka není pouze záležitostí poslední prezidentské kanceláře, podle Kysely Senát už s touto zátěží vstupoval do života. Ještě v roce 1996, tedy v roce jeho ustanovení, byly podány návrhy na jeho zrušení.</p>
+<p>„Stále častěji se však obecné a kontinuální výtky omezily na povolební povzdechy těch politiků, kteří v senátních volbách nebyli příliš úspěšní,“ říká. </p>
+<p>Veřejnost útoky na horní komoru podle Kysely vnímá, což kritice otupuje ostří. „Jediná možná reakce je pracovat a vysvětlovat,“ dodává. </p>
+<h2 id="kontroverzní-ochránce">Kontroverzní ochránce</h2>
+<p>Kontroverze Senát nevyvolává pozměňovacími návrhy, ale svou zákonodárnou aktivitou. V roce 2014 senátoři omezili pracovní dobu velkých obchodů během některých svátků, o dvanáct let dříve vetovali do té doby největší veřejnou zakázku – nákup stíhaček Gripen za 60 miliard korun. Vláda ale upřednostněním jejich pronájmu nakonec ušetřila 40 miliard ze státního rozpočtu.</p>
+<p>V reakci na mnohé výtky připomínají politologové úlohu Senátu jako ochrance ústavních zákonů. „Bez Senátu nemůžete změnit zásadní podobu ústavního či volebního systému. To jsou základní atributy demokracie, k tomu je potřeba Senát,“ doplňuje rozšířený eufemismus „pojistky demokracie“ Kysela.</p>
+<p>Podle Kysely má Senát unikátní pravomoc předejít volebnímu inženýrství právě díky nutné shodě obou komor na ústavních a volebních zákonech. „Požadavkem dvojí většiny se tak brání tomu, aby vítěz sněmovních voleb nevzal vše,“ uvedl. </p>
+<p>Takové změny přitom nejsou ve středoevropském kontextu výjimečné. Příkladem může být postupné ovládnutí Maďarska skrze parlament a změny ve volebních zákonech Viktorem Orbánem. V tuzemsku podobným úpravám Senát předešel v roce 1999 při opozičně-smluvní novele Ústavy, která měla za cíl omezit pravomoci prezidenta. </p>
+<p>Stabilitu Senát udržel také během zemětřesení po rozpuštění Poslanecké sněmovny v roce 2013, kdy fungoval jako jediná zákonodárná komora v Česku. </p>
+<p>„Volněji mezi jeho funkce spadá i podíl na ustavování Ústavního soudu. Nejsnazší způsob, jak Ústavní soud zničit, je dobýt jej zevnitř – proto je třeba bdělosti,“ vysvětluje pravomoci horní komory Kysela. </p>
+<p>Přímé napojení na Ústavní soud má Senát také při podávání ústavní žaloby na prezidenta, potřebuje ale souhlas sněmovny. Pokusil se o to dvakrát – v roce 2013 proti Václavu Klausovi za velezradu při odkládání podpisu Lisabonské smlouvy. Podruhé pak v loňském roce, kdy podle Senátu prezident Miloš Zeman odmítáním jmenování či odvolání členů vlády porušoval Ústavu. K postoupení k Ústavnímu soudu ale Senát potřeboval ústavní většinu poslanců. S ohledem na rozložení sil ve sněmovně nebyla podpora pravděpodobná.</p>
+<h2 id="souboj-i-spolupráce">Souboj i spolupráce</h2>
+<p>Právě zdánlivý boj u kontroverzních návrhů nemusí neprobíhat jen na úrovni komor, ale i na půdě každé z nich. Příkladem vleklého schvalování návrhu s nejasným koncem je zákon o svobodném přístupu k informacím. Vůbec první znění vzniklo už v roce 1996 spoluprací někdejšího senátora Michaela Žantovského a bývalého poslance Oldřicha Kužílka.</p>
+<p>„Už během přípravy návrhu jsme cítili odpor státní správy a uvědomovali jsme si, že je to na tu dobu riskantní zákon a nebude jednoduché ho prosadit. Návrh jsme tak podali jak v Senátu, tak v Poslanecké sněmovně,“ popisuje pro server iROZHLAS.cz navrhovatel zákona Oldřich Kužílek, nyní poradce pro otevřenost veřejné správy a ochranu soukromí a zastupitel městské části Praha 6 za hnutí STAN.</p>
+<p>Senátní návrh zákona, který je nyní znám pod zkratkou 106 a garantuje přístup k informacím držených státem, zůstal „zaparkovaný“ v horní komoře. Jeho „dvojníka“ čekala ve sněmovně dlouhá bitva.</p>
+<p>„Jednotlivé výbory návrh upravovaly, až to nakonec Poslanecká sněmovna posunula Senátu v hodně obměněné podobě,“ popisuje Kužílek. V horní komoře ale také nebylo předem vyhráno. „Blížil se konec volebního období díky protiústavnímu rozpuštění sněmovny v roce 1998, ještě před tím se zařadilo hlasování v Senátu o návrhu našeho zákona. Tehdy asi o čtyři hlasy neprošel,“ popisuje zdánlivý konec poutě sněmovního tisku Kužílek. </p>
+<p>„V tu chvíli jsme si vzpomněli, že máme v Senátu zaparkovanou senátní verzi, která ale v této chvíli byla v původní podobě. Jedním hlasováním se zařídila jeho proměna do sněmovní podoby a návrh se podal jako senátní,“ pokračuje. Senátní verze nakonec opravdu koncem roku 1998 postoupila zpět do sněmovny a po podpisu prezidentem republiky nabyla platnost na přelomu století. </p>
 
     <p class="meta meta--right meta--big">
       <!--[[ZPRAVY_SNOWFALL_AUTHORS:FOOTER]]-->
@@ -370,7 +424,7 @@ eval("if (navigator.appName === \"Microsoft Internet Explorer\" || !!(navigator.
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _byeie__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./byeie */ \"./js/byeie.js\");\n/* harmony import */ var _byeie__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_byeie__WEBPACK_IMPORTED_MODULE_0__);\n // loučíme se s IE\n\n/*\r\n// snadné načtení souboru pro každého!\r\nfetch(\"https://blabla.cz/blabla.json\")\r\n  .then(response => response.json()) // nebo .text(), když to není json\r\n  .then(data => {\r\n    // tady jde provést s daty cokoliv\r\n  });\r\n*/\n\n//# sourceURL=webpack:///./js/script.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _byeie__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./byeie */ \"./js/byeie.js\");\n/* harmony import */ var _byeie__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_byeie__WEBPACK_IMPORTED_MODULE_0__);\n // loučíme se s IE\n\n/*\n// snadné načtení souboru pro každého!\nfetch(\"https://blabla.cz/blabla.json\")\n  .then(response => response.json()) // nebo .text(), když to není json\n  .then(data => {\n    // tady jde provést s daty cokoliv\n  });\n*/\n//grafcelek\n\nif (window.innerWidth >= 600) {\n  Highcharts.setOptions({\n    colors: ['#FFCC00', '#EE8027', '#E53434', '#A0067D', '#5E2281', '#172983', '#007BC2', '#89BA17', '#D4B66D', '#B85637', '#A21F16', '#732813', '#5C748C']\n  });\n  Highcharts.chart('grafcelek', {\n    title: {\n      text: 'Zjednodušený legislativní proces'\n    },\n    credits: {\n      enabled: false\n    },\n    series: [{\n      keys: ['from', 'to', 'weight'],\n      data: [['Návrh zákona předložen sněmovně', 'Sněmovna: schválila návrh zákona', 2250], ['Návrh zákona předložen sněmovně', 'Sněmovna: návrh zákona zamítla nebo jej vzal zpět předkladatel', 913], ['Návrh zákona předložen sněmovně', 'Konec volebního období před projednáním', 579], ['Sněmovna: schválila návrh zákona', 'Senát: vrátil sněmovně s pozměňovacími návrhy', 532], ['Sněmovna: schválila návrh zákona', 'Senát: zamítl', 127], ['Sněmovna: schválila návrh zákona', 'Senát: schválil', 1241], ['Sněmovna: schválila návrh zákona', 'Senát: neprojednal, nezabýval se, nepřijal usnesení', 342], ['Sněmovna: schválila návrh zákona', 'Senát: zamítl nebo nepřijal usnesení (ústavní zákon)', 8], ['Senát: zamítl', 'Sněmovna: návrh zákona nepřijala', 22], ['Senát: zamítl', 'Sněmovna: setrvala na původním znění zákona', 85], ['Senát: zamítl', 'Sněmovna: konec volebního období', 19], ['Senát: vrátil sněmovně s pozměňovacími návrhy', 'Sněmovna: návrh zákona nepřijala', 23], ['Senát: vrátil sněmovně s pozměňovacími návrhy', 'Sněmovna: přijala pozměňovací návrhy', 302], ['Senát: vrátil sněmovně s pozměňovacími návrhy', 'Sněmovna: setrvala na původním znění zákona', 204], ['Senát: vrátil sněmovně s pozměňovacími návrhy', 'Sněmovna: konec volebního období', 3], ['Senát: schválil', 'Zákon schválen Senátem ve sněmovní verzi', 1241], ['Senát: neprojednal, nezabýval se, nepřijal usnesení', 'Zákon schválen Senátem ve sněmovní verzi', 342], ['Sněmovna: setrvala na původním znění', 'Parlamentem prošlo bez posvěcení Senátu', 289], ['Sněmovna: přijala pozměňovací návrhy', 'Parlamentem prošlo s posvěcením Senátu', 302], ['Zákon schválen Senátem ve sněmovní verzi', 'Zákon Parlamentem prošel s posvěcením Senátu', 1583]],\n      type: 'sankey',\n      name: 'Počet návrhů zákonů v legislativním procesu'\n    }]\n  }); //grafnemajivetsinu\n\n  Highcharts.chart('grafnemajivetsinu', {\n    title: {\n      text: 'Posvěcení Senátu když strany vládní koalice nemají většinu v Senátu'\n    },\n    credits: {\n      enabled: false\n    },\n    series: [{\n      keys: ['from', 'to', 'weight'],\n      data: [['Předkladatel: krajské zastupitelstvo', 'Senát: vrátil sněmovně s pozměňovacími návrhy', 4], ['Předkladatel: krajské zastupitelstvo', 'Senát: zamítl', 0], ['Předkladatel: krajské zastupitelstvo', 'Senát: schválil', 9], ['Předkladatel: krajské zastupitelstvo', 'Senát: neprojednal, nezabýval se, nepřijal usnesení', 2], ['Předkladatel: poslanci', 'Senát: vrátil sněmovně s pozměňovacími návrhy', 66], ['Předkladatel: poslanci', 'Senát: zamítl', 30], ['Předkladatel: poslanci', 'Senát: schválil', 104], ['Předkladatel: poslanci', 'Senát: neprojednal, nezabýval se, nepřijal usnesení', 50], ['Předkladatel: Senát', 'Senát: vrátil sněmovně s pozměňovacími návrhy', 5], ['Předkladatel: Senát', 'Senát: zamítl', 3], ['Předkladatel: Senát', 'Senát: schválil', 22], ['Předkladatel: Senát', 'Senát: neprojednal, nezabýval se, nepřijal usnesení', 1], ['Předkladatel: vláda', 'Senát: vrátil sněmovně s pozměňovacími návrhy', 260], ['Předkladatel: vláda', 'Senát: zamítl', 62], ['Předkladatel: vláda', 'Senát: schválil', 416], ['Předkladatel: vláda', 'Senát: neprojednal, nezabýval se, nepřijal usnesení', 153], ['Předkladatel: vláda', 'Senát: zamítl nebo nepřijal usnesení (ústavní zákon)', 6], ['Senát: zamítl', 'Sněmovna: návrh zákona nepřijala', 14], ['Senát: zamítl', 'Sněmovna: setrvala na původním znění zákona', 68], ['Senát: zamítl', 'Sněmovna: konec volebního období', 12], ['Senát: vrátil sněmovně s pozměňovacími návrhy', 'Sněmovna: návrh zákona nepřijala', 10], ['Senát: vrátil sněmovně s pozměňovacími návrhy', 'Sněmovna: přijala pozměňovací návrhy', 182], ['Senát: vrátil sněmovně s pozměňovacími návrhy', 'Sněmovna: setrvala na původním znění zákona', 141], ['Senát: vrátil sněmovně s pozměňovacími návrhy', 'Sněmovna: konec volebního období', 2], ['Senát: schválil', 'Zákon schválen Senátem ve sněmovní verzi', 551], ['Senát: neprojednal, nezabýval se, nepřijal usnesení', 'Zákon schválen Senátem ve sněmovní verzi', 206], ['Sněmovna: setrvala na původním znění', 'Parlamentem prošlo bez posvěcení Senátu', 209], ['Sněmovna: přijala pozměňovací návrhy', 'Parlamentem prošlo s posvěcením Senátu', 182], ['Zákon schválen Senátem ve sněmovní verzi', 'Zákon Parlamentem prošel s posvěcením Senátu', 757]],\n      type: 'sankey',\n      name: 'Počet návrhů zákonů v legislativním procesu'\n    }]\n  }); //grafmajivetsinu\n\n  Highcharts.chart('grafmajivetsinu', {\n    title: {\n      text: 'Posvěcení Senátu když strany vládní koalice mají většinu v Senátu v době hlasování'\n    },\n    credits: {\n      enabled: false\n    },\n    series: [{\n      keys: ['from', 'to', 'weight'],\n      data: [['Předkladatel: krajské zastupitelstvo', 'Senát: vrátil sněmovně s pozměňovacími návrhy', 1], ['Předkladatel: krajské zastupitelstvo', 'Senát: zamítl', 1], ['Předkladatel: krajské zastupitelstvo', 'Senát: schválil', 6], ['Předkladatel: krajské zastupitelstvo', 'Senát: neprojednal, nezabýval se, nepřijal usnesení', 1], ['Předkladatel: poslanci', 'Senát: vrátil sněmovně s pozměňovacími návrhy', 46], ['Předkladatel: poslanci', 'Senát: zamítl', 13], ['Předkladatel: poslanci', 'Senát: schválil', 115], ['Předkladatel: poslanci', 'Senát: neprojednal, nezabýval se, nepřijal usnesení', 30], ['Předkladatel: Senát', 'Senát: vrátil sněmovně s pozměňovacími návrhy', 4], ['Předkladatel: Senát', 'Senát: schválil', 11], ['Předkladatel: Senát', 'Senát: neprojednal, nezabýval se, nepřijal usnesení', 4], ['Předkladatel: vláda', 'Senát: vrátil sněmovně s pozměňovacími návrhy', 146], ['Předkladatel: vláda', 'Senát: zamítl', 17], ['Předkladatel: vláda', 'Senát: schválil', 558], ['Předkladatel: vláda', 'Senát: neprojednal, nezabýval se, nepřijal usnesení', 101], ['Předkladatel: vláda', 'Senát: zamítl nebo nepřijal usnesení (ústavní zákon)', 2], ['Senát: zamítl', 'Sněmovna: návrh zákona nepřijala', 8], ['Senát: zamítl', 'Sněmovna: setrvala na původním znění zákona', 17], ['Senát: zamítl', 'Sněmovna: konec volebního období', 7], ['Senát: vrátil sněmovně s pozměňovacími návrhy', 'Sněmovna: návrh zákona nepřijala', 13], ['Senát: vrátil sněmovně s pozměňovacími návrhy', 'Sněmovna: přijala pozměňovací návrhy', 120], ['Senát: vrátil sněmovně s pozměňovacími návrhy', 'Sněmovna: setrvala na původním znění zákona', 63], ['Senát: vrátil sněmovně s pozměňovacími návrhy', 'Sněmovna: konec volebního období', 1], ['Senát: schválil', 'Zákon schválen Senátem ve sněmovní verzi', 690], ['Senát: neprojednal, nezabýval se, nepřijal usnesení', 'Zákon schválen Senátem ve sněmovní verzi', 136], ['Sněmovna: setrvala na původním znění', 'Parlamentem prošlo bez posvěcení Senátu', 80], ['Sněmovna: přijala pozměňovací návrhy', 'Parlamentem prošlo s posvěcením Senátu', 120], ['Zákon schválen Senátem ve sněmovní verzi', 'Zákon Parlamentem prošel s posvěcením Senátu', 826]],\n      type: 'sankey',\n      name: 'Počet návrhů zákonů v legislativním procesu'\n    }]\n  });\n}\n\n//# sourceURL=webpack:///./js/script.js?");
 
 /***/ })
 

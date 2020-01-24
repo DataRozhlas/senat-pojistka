@@ -1,0 +1,14 @@
+.grafy {
+    width: 100%;
+   min-height: 77vh;
+    margin: 0;
+    border: 0;
+}
+
+#csv {
+	display: none;
+}
+
+.grafimg {
+    width: 100%;
+}

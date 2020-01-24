@@ -1,6 +1,6 @@
 .grafy {
     width: 100%;
-   min-height: 77vh;
+    min-height: 77vh;
     margin: 0;
     border: 0;
 }
@@ -11,4 +11,10 @@
 
 .grafimg {
     width: 100%;
+}
+
+@media (max-width: 600px) {
+    .grafy {
+        min-height: auto;
+    }
 }

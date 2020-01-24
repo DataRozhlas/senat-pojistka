@@ -1,10 +1,10 @@
 title: "Pojistka demokracie nebo nástroj ďábla?<br>Senát opravil v průměru každý čtvrtý návrh zákona"
 perex: "„Cokoliv vychází od Senátu, je od ďábla,” nešetří kritikou na adresu horní komory prezident Miloš Zeman, který patří k jeho dlouhodobým odpůrcům a navrhuje jeho „vyhladovění“. Zrušení Senátu prosazuje také premiér Andrej Babiš. Je podle něj „zbytečný a drahý“ mimo jiné proto, že ho sněmovna může snadno přehlasovat. Detailní data shromážděná serverem iROZHLAS.cz ovšem ukazují, že pozměňovací návrhy Senátu zůstaly v zákonech v 57 procentech případů."
-coverimg: 
-coverimg_note: "Foto <a href=''></a>"
+coverimg: "https://www.irozhlas.cz/sites/default/files/uploader/12_18_ustavujici_sch_200124-162635_nkr.jpg"
+coverimg_note: "Foto: Ustavující schůze Senátu, 1996. Foto: Archiv Senátu PČR.<a href='https://www.senat.cz/informace/z_historie/index.php?ke_dni=24.1.2020&O=12'></a>"
 styles: []
 libraries: ["https://code.highcharts.com/highcharts.js", "https://code.highcharts.com/modules/sankey.js"] #jquery, d3, highcharts, datatables
-options: [noheader] #wide, noheader (, nopic)
+options: [] #wide, noheader (, nopic)
 ---
 
 Unikátní data o hlasováních, které prošly Senátem od roku 1996, nyní ukazují, že Senát „opravil“ v průměru každý čtvrtý návrh zákona postoupený sněmovnou. Má tak v legislativním procesu nezastupitelné místo. 
@@ -19,13 +19,19 @@ Vlastní iniciativou Senátu prošlo ke schválení 47 návrhů zákonů. Čast�
 
 <br>
 
- „Vedle těch zásadních zákonů, jež vyžadují souhlas Senátu kvůli garancím stability státní moci, Senát prostě je orgánem legislativní korekce, přičemž používá ‚červeného a oranžového praporku‘, jimiž signalizuje, že by měl být ten který zákon zastaven (zamítá) nebo změněn (vrací s pozměňovacími návrhy),“ dodává Kysela. Konečná odpovědnost je ale na Poslanecké sněmovně, která po vrácení Senátem znovu hlasuje o sněmovní nebo senátní verzi návrhu zákona. 
+„Vedle těch zásadních zákonů, jež vyžadují souhlas Senátu kvůli garancím stability státní moci, Senát prostě je orgánem legislativní korekce, přičemž používá ‚červeného a oranžového praporku‘, jimiž signalizuje, že by měl být ten který zákon zastaven (zamítá) nebo změněn (vrací s pozměňovacími návrhy),“ dodává Kysela. 
+
+<right>
+	<p>
+	<b>Jak grafy číst?</b>
+	</p><p>
+	Tloušťka jednotlivých toků je určena počtem návrhů, které tou to cestou „protekly“ v absolutních číslech. V případě výsledku ve sněmovně není rozlišeno, v kolikátém čtení byl zákon schválen. U výsledků hlasování v Senátu není rozlišováno mezi tím, kdy Senát vyjádřil vůli se zákonem nezabývat a kdy nepřijal usnesení. Jen v sedmi analyzovaných případech Senát návrh zákona neprojednal a zákon prošel dále automaticky, jsou proto zahrnuty také do této neutrální kategorie. Zvláštní kategorií jsou ústavní zákony, volební zákony a zákon o jednacím řádu Senátu, které musí být Senátem explicitně schváleny.
+	</p>
+</right>
+
+Konečná odpovědnost je ale na Poslanecké sněmovně, která po vrácení Senátem znovu hlasuje o sněmovní nebo senátní verzi návrhu zákona. 
 
 „Červený“ praporek padl na 130 návrhů, úspěšnost zamítnutí byla okolo 30 procent. 
-
-## Jak data číst?
-<i>Tloušťka jednotlivých toků je určena počtem návrhů zákonů, které tou to cestou „protekly“ v absolutních číslech. V případě výsledku ve sněmovně není rozlišeno, v kolikátém čtení byl zákon schválen. U výsledků hlasování v Senátu není rozlišováno mezi tím, kdy Senát vyjádřil vůli se zákonem nezabývat a kdy Senát nepřijal usnesení. Jen v sedmi analyzovaných případech Senát návrh zákona neprojednal a zákon prošel dále automaticky, jsou proto zahrnuty také do této neutrální kategorie. 
-Zvláštní kategorií jsou ústavní zákony, volební zákony a zákon o jednacím řádu Senátu, které musí být Senátem explicitně schváleny. Pokud se tak nestane, jejich osud v tomto bodě končí.</i>
 
 Senát za svou třiadvacetiletou historii přijal více než polovinu postoupených návrhů – konkrétně 1245. U 323 návrhů se rozhodl jimi nezabývat, nepřijmout usnesení nebo je neprojednal. Ve stejné podobě se tak vrátily sněmovně a od uvedení ve sbírce zákonů je dělil jen podpis hlavy státu.
 
@@ -77,8 +83,6 @@ Ačkoliv je Senát navolen opozičně, horní komora neslouží jen jako systema
 ## Nástroj ďábla
 Kritikou nešetří například prezident Miloš Zeman či premiér Andrej Babiš. Zeman se během prosince loňského roku při podepisování daňového balíčku nechal slyšet, že „cokoliv vychází od Senátu, jest od ďábla“.
 
-„Útoky na svobodu pokračovaly i v uplynulém roce a jako vždy byly zdůvodňovány těmi nejlepšími úmysly,“ reagoval na kontroverzní výrok v novoročním projevu nedávno zesnulý šéf horní komory Parlamentu Jaroslav Kubera. 
-
 <left>
 	<p>
 	<b>Volby do Senátu 2020</b>
@@ -86,6 +90,8 @@ Kritikou nešetří například prezident Miloš Zeman či premiér Andrej Babi�
 	Volit se bude ve 27 obvodech, jejich přehled nabízíme <a href="https://www.irozhlas.cz/volby/senatni-volby-2020">zde</a href>. ČSSD obhajuje 10 mandátů, KDU-ČSL 5, ANO 3, Zelení, STAN a ODS 2, SPOZ, Soukromníci a SLK po jednom mandátu. Volby proběhnou současně s krajskými volbami 2020.
 	</p>
 </left>
+
+„Útoky na svobodu pokračovaly i v uplynulém roce a jako vždy byly zdůvodňovány těmi nejlepšími úmysly,“ reagoval na kontroverzní výrok v novoročním projevu nedávno zesnulý šéf horní komory Parlamentu Jaroslav Kubera. 
 
 Zpochybňování dvoukomorového uspořádání Parlamentu ale zdaleka není pouze záležitostí poslední prezidentské kanceláře, podle Kysely Senát už s touto zátěží vstupoval do života. Ještě v roce 1996, tedy v roce jeho ustanovení, byly podány návrhy na jeho zrušení.
 

@@ -55,7 +55,7 @@ Highcharts.chart('grafcelek', {
 Highcharts.chart('grafnemajivetsinu', {
 
   title: {
-      text: 'Posvěcení Senátu když strany vládní koalice nemají většinu v Senátu'
+      text: 'Posvěcení Senátu, když strany vládní koalice nemají většinu v Senátu'
   },
   credits:{enabled:false},
   series: [{
@@ -101,7 +101,7 @@ Highcharts.chart('grafnemajivetsinu', {
 Highcharts.chart('grafmajivetsinu', {
 
   title: {
-      text: 'Posvěcení Senátu když strany vládní koalice mají většinu v Senátu v době hlasování'
+      text: 'Posvěcení Senátu, když strany vládní koalice mají většinu v Senátu v době hlasování'
   },
   credits:{enabled:false},
   series: [{

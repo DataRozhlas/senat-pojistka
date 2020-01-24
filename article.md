@@ -1,5 +1,5 @@
-title: "Pojistka demokracie nebo nástroj ďábla?<br>Senát opravil v průměru každý čtvrtý návrh zákona, ukazují data"
-perex: "„Cokoliv vychází od Senátu, je od ďábla,” nešetřil kritikou na adresu horní komory prezident Miloš Zeman, který patří k jeho dlouhodobým odpůrcům. A není sám. Jeho „vyhladovění“ či zrušení prosazuje také premiér Andrej Babiš. Senátu vytýkají údajně snadnou přehlasovatelnost sněmovnou, jeho opravy ale prošly v 57 procentech případů. Úspěšnost pozměňovacích návrhů i aktivitu „pojistky demokracie“ podle stranického obsazení analyzovali datoví novináři serveru iROZHLAS.cz."
+title: "Pojistka demokracie nebo nástroj ďábla?<br>Senát opravil v průměru každý čtvrtý návrh zákona"
+perex: "„Cokoliv vychází od Senátu, je od ďábla,” nešetří kritikou na adresu horní komory prezident Miloš Zeman, který patří k jeho dlouhodobým odpůrcům a navrhuje jeho „vyhladovění“. Zrušení Senátu prosazuje také premiér Andrej Babiš. Je podle něj „zbytečný a drahý“ mimo jiné proto, že ho sněmovna může snadno přehlasovat. Detailní data shromážděná serverem iROZHLAS.cz ovšem ukazují, že pozměňovací návrhy Senátu zůstaly v zákonech v 57 procentech případů."
 coverimg: 
 coverimg_note: "Foto <a href=''></a>"
 styles: []

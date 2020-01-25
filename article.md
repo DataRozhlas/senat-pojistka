@@ -15,7 +15,7 @@ Vlastní iniciativou Senátu prošlo ke schválení 47 návrhů zákonů. Čast�
 <img class="grafimg" src="https://www.irozhlas.cz/sites/default/files/uploader/grafcelek_200124-143236_nkr.jpeg">
 </div></wide>
 
-<wide><i>Graf zobrazuje postup 3764 návrhů zákonů legislativním procesem, do jejichž projednání byl zapojen Senát v období listopad 1996 až srpen 2019 a jejichž projednávání bylo v tomto období ukončeno.</i></wide>
+<wide><i>Graf zobrazuje postup 3742 návrhů zákonů legislativním procesem, do jejichž projednání byl zapojen Senát v období listopad 1996 až srpen 2019 a jejichž projednávání bylo v tomto období ukončeno.</i></wide>
 
 <br>
 
@@ -31,16 +31,16 @@ Vlastní iniciativou Senátu prošlo ke schválení 47 návrhů zákonů. Čast�
 
 Konečná odpovědnost je ale na Poslanecké sněmovně, která po vrácení Senátem znovu hlasuje o sněmovní nebo senátní verzi návrhu zákona. 
 
-„Červený“ praporek padl na 130 návrhů, úspěšnost zamítnutí byla okolo 30 procent. 
+„Červený“ praporek padl na 127 návrhů, úspěšnost zamítnutí byla okolo 30 procent. 
 
-Senát za svou třiadvacetiletou historii přijal více než polovinu postoupených návrhů – konkrétně 1245. U 323 návrhů se rozhodl jimi nezabývat, nepřijmout usnesení nebo je neprojednal. Ve stejné podobě se tak vrátily sněmovně a od uvedení ve sbírce zákonů je dělil jen podpis hlavy státu.
+Senát za svou třiadvacetiletou historii přijal více než polovinu postoupených návrhů – konkrétně 1241. U 342 návrhů se rozhodl jimi nezabývat, nepřijmout usnesení nebo je neprojednal. Ve stejné podobě se tak vrátily sněmovně a od uvedení ve sbírce zákonů je dělil jen podpis hlavy státu.
 
 Senátoři posuzují návrhy ve výborech, na schůzích pak mohou odhlasovat postoupení dolní komoře s pozměňovacími návrhy. „Opravených“ návrhů vrátili 532, senátních verzí pak bylo schváleno 302. 
 
 Právě postoj Poslanecké sněmovny k těmto pozměňovacím návrhům může být indikátorem toho, jaký vliv Senát v českém zákonodárném procesu má. Sněmovně se pak naopak podařilo schválit 289 návrhů v původní verzi bez posvěcení horní komory. 
 
 ## Vyšší aktivita, méně úspěchů
-Data ukazují, že Senát jde často „na ruku“ vládní koalici, pokud má tato koalice většinu v Senátu. V takovém případě méně často návrhy končí ve sněmovně s pozměňovacími návrhy – z celkových 1077 jich bylo „opraveno“ 197, tedy 18 procent. Dolní komora také častěji pozměňovací návrhy přijímá, celkem v 60 procentech případů.
+Data ukazují, že Senát jde často „na ruku“ vládní koalici, pokud má tato koalice většinu v Senátu. V takovém případě méně často návrhy končí ve sněmovně s pozměňovacími návrhy – z celkových 1056 jich bylo „opraveno“ 197, tedy 19 procent. Dolní komora také častěji pozměňovací návrhy přijímá, celkem v 60 procentech případů.
 
 <wide><div class="grafy" id="grafmajivetsinu">
 <img class="grafimg" src="https://www.irozhlas.cz/sites/default/files/uploader/grafmajivetsinu_200124-143236_nkr.jpeg">

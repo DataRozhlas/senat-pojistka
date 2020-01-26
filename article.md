@@ -1,5 +1,5 @@
 title: "Pojistka demokracie nebo nástroj ďábla?<br>Senát opravil v průměru každý čtvrtý návrh zákona"
-perex: "„Cokoliv vychází od Senátu, je od ďábla,” nešetří kritikou na adresu horní komory prezident Miloš Zeman, který patří k jeho dlouhodobým odpůrcům a navrhuje jeho „vyhladovění“. Zrušení Senátu prosazuje také premiér Andrej Babiš. Je podle něj „zbytečný a drahý“ mimo jiné proto, že ho sněmovna může snadno přehlasovat. Detailní data shromážděná serverem iROZHLAS.cz ovšem ukazují, že pozměňovací návrhy Senátu zůstaly v zákonech v 57 procentech případů."
+perex: "„Cokoliv vychází od Senátu, je od ďábla,” nešetří kritikou na adresu horní komory prezident Miloš Zeman, který patří k jeho dlouhodobým odpůrcům a navrhuje její „vyhladovění“. Zrušení Senátu prosazuje také premiér Andrej Babiš z hnutí ANO. Je podle něj „zbytečný a drahý“ mimo jiné proto, že ho Poslanecká sněmovna může snadno přehlasovat. Detailní data shromážděná serverem iROZHLAS.cz ovšem ukazují, že pozměňovací návrhy Senátu zůstaly v zákonech v 57 procentech případů."
 coverimg: "https://www.irozhlas.cz/sites/default/files/uploader/12_18_ustavujici_sch_200124-162635_nkr.jpg"
 coverimg_note: "Foto: Ustavující schůze Senátu, 1996. Foto: Archiv Senátu PČR.<a href='https://www.senat.cz/informace/z_historie/index.php?ke_dni=24.1.2020&O=12'></a>"
 styles: []
@@ -7,7 +7,7 @@ libraries: ["https://code.highcharts.com/highcharts.js", "https://code.highchart
 options: [] #wide, noheader (, nopic)
 ---
 
-Unikátní data o hlasováních, které prošly Senátem od roku 1996, nyní ukazují, že Senát „opravil“ v průměru každý čtvrtý návrh zákona postoupený sněmovnou. Má tak v legislativním procesu nezastupitelné místo. 
+Unikátní data o hlasováních, která prošla Senátem od roku 1996, nyní ukazují, že Senát „opravil“ v průměru každý čtvrtý návrh zákona postoupený sněmovnou. Má tak v legislativním procesu nezastupitelné místo. 
 
 Vlastní iniciativou Senátu prošlo ke schválení 47 návrhů zákonů. Častěji tedy návrhy opravoval, než vytvářel. „Být opravářem zákonů není hanba, neboť to je podstatou legislativního poslání Senátu,“ upřesnil pro server iROZHLAS.cz expert na ústavní právo Jan Kysela. 
 
@@ -19,7 +19,7 @@ Vlastní iniciativou Senátu prošlo ke schválení 47 návrhů zákonů. Čast�
 
 <br>
 
-„Vedle těch zásadních zákonů, jež vyžadují souhlas Senátu kvůli garancím stability státní moci, Senát prostě je orgánem legislativní korekce, přičemž používá ‚červeného a oranžového praporku‘, jimiž signalizuje, že by měl být ten který zákon zastaven (zamítá) nebo změněn (vrací s pozměňovacími návrhy),“ dodává Kysela. 
+„Vedle těch zásadních zákonů, jež vyžadují souhlas Senátu kvůli garancím stability státní moci, Senát prostě je orgánem legislativní korekce, přičemž používá ‚červeného a oranžového praporku‘, jimiž signalizuje, že by měl být ten který zákon zastaven (zamítá) nebo změněn (vrací s pozměňovacími návrhy),“ dodává. 
 
 <right>
 	<p>
@@ -33,24 +33,24 @@ Konečná odpovědnost je ale na Poslanecké sněmovně, která po vrácení Sen
 
 „Červený“ praporek padl na 127 návrhů, úspěšnost zamítnutí byla okolo 30 procent. 
 
-Senát za svou třiadvacetiletou historii přijal více než polovinu postoupených návrhů – konkrétně 1241. U 342 návrhů se rozhodl jimi nezabývat, nepřijmout usnesení nebo je neprojednal. Ve stejné podobě se tak vrátily sněmovně a od uvedení ve sbírce zákonů je dělil jen podpis hlavy státu.
+Senát za svou třiadvacetiletou historii přijal více než polovinu postoupených návrhů – konkrétně 1241. U 342 návrhů se rozhodl jimi nezabývat, nepřijmout usnesení nebo je neprojednal. Ve stejné podobě se tak vrátily sněmovně a od uvedení ve Sbírce zákonů je dělil jen podpis hlavy státu.
 
 Senátoři posuzují návrhy ve výborech, na schůzích pak mohou odhlasovat postoupení dolní komoře s pozměňovacími návrhy. „Opravených“ návrhů vrátili 532, senátních verzí pak bylo schváleno 302. 
 
-Právě postoj Poslanecké sněmovny k těmto pozměňovacím návrhům může být indikátorem toho, jaký vliv Senát v českém zákonodárném procesu má. Sněmovně se pak naopak podařilo schválit 289 návrhů v původní verzi bez posvěcení horní komory. 
+Právě postoj Poslanecké sněmovny k těmto pozměňovacím návrhům může být indikátorem toho, jaký vliv Senát v českém zákonodárném procesu má. Sněmovně se naopak podařilo schválit 289 návrhů v původní verzi bez posvěcení horní komory. 
 
 ## Vyšší aktivita, méně úspěchů
-Data ukazují, že Senát jde často „na ruku“ vládní koalici, pokud má tato koalice většinu v Senátu. V takovém případě méně často návrhy končí ve sněmovně s pozměňovacími návrhy – z celkových 1056 jich bylo „opraveno“ 197, tedy 19 procent. Dolní komora také častěji pozměňovací návrhy přijímá, celkem v 60 procentech případů.
+Data ukazují, že Senát jde často „na ruku“ vládní koalici, pokud v něm má koalice většinu. V takovém případě méně často návrhy končí ve sněmovně s pozměňovacími návrhy – z celkových 1056 jich bylo „opraveno“ 197, tedy 19 procent. Dolní komora také častěji pozměňovací návrhy přijímá, celkem v 60 procentech případů.
 
 <wide><div class="grafy" id="grafmajivetsinu">
 <img class="grafimg" src="https://www.irozhlas.cz/sites/default/files/uploader/grafmajivetsinu_200124-143236_nkr.jpeg">
 </div></wide>
 
 <br>
-<wide><i>Dvě konečné hodnoty (zákon prošel bez nebo s posvěcením senátu) jsou založeny na tom, jestli bylo respektováno zamítnutí sněmovního návrhu, respektive zda byly přijaty senátní pozměňovací návrhy, nebo jestli sněmovnou zákon prošel v původním znění Senátu navzdory. Je tak hodnoceno, jestli je Senát ve své kontrolní funkci sněmovnou respektován.</i></wide>
+<wide><i>Dvě konečné hodnoty (zákon prošel bez nebo s posvěcením Senátu) jsou založeny na tom, jestli bylo respektováno zamítnutí sněmovního návrhu, respektive zda byly přijaty senátní pozměňovací návrhy, nebo jestli sněmovnou zákon prošel v původním znění Senátu navzdory. Je tak hodnoceno, jestli je Senát ve své kontrolní funkci sněmovnou respektován.</i></wide>
 <br>
 
-„Senát je mnohem aktivnější, pokud je složení komor opačné – tedy vláda má důvěru a zároveň vládní koalice nemá většinu v Senátu. V tomto složení nemá Senát jen roli ,kývače‘,“ vysvětluje pro server iROZHLAS.cz Roman Chytilek, politolog z Fakulty sociálních studií Masarykovy univerzity.
+„Senát je mnohem aktivnější, pokud je složení komor opačné – tedy vláda má důvěru a zároveň vládní koalice nemá většinu v Senátu. V tomto složení nemá Senát jen roli ,kývače‘,“ vysvětluje pro server iROZHLAS.cz Roman Chytilek, politolog z Fakulty sociálních studií Masarykovy univerzity v Brně.
 
 V opačném rozložení sil Senát projednal 1193 návrhů, vrátil jich 335. Tedy o deset procentních bodů více, než pokud je ovládán vládní koalicí. Sněmovna přijala 54 procent senátních verzí. 
 
@@ -70,11 +70,11 @@ Senát svým složením kopíroval vládní koalice od svého založení za doby
 	</p>
 </right>
 
-Většinu tyto strany ztratily po senátních volbách 2000, kdy posílila na jejich úkor Čtyřkoalice. V senátu následně za vlád ČSSD posilovala ODS, která v roce 2006 pod vedením Mirka Topolánka také složila vládu. 
+Většinu tyto strany ztratily po senátních volbách 2000, kdy posílila na jejich úkor Čtyřkoalice. V Senátu následně za vlád ČSSD posilovala ODS, která v roce 2006 pod vedením Mirka Topolánka také složila vládu. 
 
 Dominance občanských demokratů (spolu s lidovci a zelenými) v obou komorách pak končí rokem 2010, kdy většinu v Senátu přebírá ČSSD, a Senát je tak navolen „opozičně“. K opětovné jednobarevnosti obou komor dochází opět s vládou Bohuslava Sobotky, kdy je ČSSD i hlavní stranou vládní koalice. S přeskupením politických sil po volbách 2017 je Senát opět složením opoziční, jelikož senátorské kluby ANO a ČSSD většinu nemají.
 
-Podle Kysely se situace příliš nezmění ani na konci letošního roku, kdy se po volbách obmění třetina křesel. „Voliči levice k senátním volbám příliš nechodí, proto bývá pravostředová orientace typická. Výjimkou je několikaleté období ‚oranžového Senátu‘, jemuž napomohl odpor k vládním stranám. Na podzim se dá očekávat další oslabení ČSSD, jinak se mi nezdá, že by tu měl být nějaký hegemon,“ uvedl Kysela. 
+Podle Kysely se situace příliš nezmění ani na konci letošního roku, kdy se po volbách obmění třetina křesel. „Voliči levice k senátním volbám příliš nechodí, proto bývá pravostředová orientace typická. Výjimkou je několikaleté období ‚oranžového Senátu‘, jemuž napomohl odpor k vládním stranám. Na podzim se dá očekávat další oslabení ČSSD, jinak se mi nezdá, že by tu měl být nějaký hegemon,“ říká. 
 
 Dodává, že vládní hnutí ANO v senátních volbách příliš nevítězí, mandáty tak mohou na úkor ČSSD přibývat relativně rovnoměrně.
 
@@ -91,7 +91,7 @@ Kritikou nešetří například prezident Miloš Zeman či premiér Andrej Babi�
 	</p>
 </left>
 
-„Útoky na svobodu pokračovaly i v uplynulém roce a jako vždy byly zdůvodňovány těmi nejlepšími úmysly,“ reagoval na kontroverzní výrok v novoročním projevu nedávno zesnulý šéf horní komory Parlamentu Jaroslav Kubera. 
+„Útoky na svobodu pokračovaly i v uplynulém roce a jako vždy byly zdůvodňovány těmi nejlepšími úmysly,“ reagoval na kontroverzní výrok v novoročním projevu nedávno zesnulý šéf horní komory Parlamentu Jaroslav Kubera z ODS. 
 
 Zpochybňování dvoukomorového uspořádání Parlamentu ale zdaleka není pouze záležitostí poslední prezidentské kanceláře, podle Kysely Senát už s touto zátěží vstupoval do života. Ještě v roce 1996, tedy v roce jeho ustanovení, byly podány návrhy na jeho zrušení.
 
@@ -104,9 +104,9 @@ Kontroverze Senát nevyvolává pozměňovacími návrhy, ale svou zákonodárno
 
 V reakci na mnohé výtky připomínají politologové úlohu Senátu jako ochrance ústavních zákonů. „Bez Senátu nemůžete změnit zásadní podobu ústavního či volebního systému. To jsou základní atributy demokracie, k tomu je potřeba Senát,“ doplňuje rozšířený eufemismus „pojistky demokracie“ Kysela.
 
-Podle Kysely má Senát unikátní pravomoc předejít volebnímu inženýrství právě díky nutné shodě obou komor na ústavních a volebních zákonech. „Požadavkem dvojí většiny se tak brání tomu, aby vítěz sněmovních voleb nevzal vše,“ uvedl. 
+Podle něj má Senát unikátní pravomoc předejít volebnímu inženýrství právě díky nutné shodě obou komor na ústavních a volebních zákonech. „Požadavkem dvojí většiny se tak brání tomu, aby vítěz sněmovních voleb nevzal vše,“ přibližuje. 
 
-Takové změny přitom nejsou ve středoevropském kontextu výjimečné. Příkladem může být postupné ovládnutí Maďarska skrze parlament a změny ve volebních zákonech Viktorem Orbánem. V tuzemsku podobným úpravám Senát předešel v roce 1999 při opozičně-smluvní novele Ústavy, která měla za cíl omezit pravomoci prezidenta. 
+Takové změny přitom nejsou ve středoevropském kontextu výjimečné. Příkladem může být postupné ovládnutí Maďarska skrze parlament a změny ve volebních zákonech premiérem Viktorem Orbánem. V tuzemsku podobným úpravám Senát předešel v roce 1999 při opozičně-smluvní novele Ústavy, která měla za cíl omezit pravomoci prezidenta. 
 
 Stabilitu Senát udržel také během zemětřesení po rozpuštění Poslanecké sněmovny v roce 2013, kdy fungoval jako jediná zákonodárná komora v Česku. 
 
@@ -116,12 +116,16 @@ Přímé napojení na Ústavní soud má Senát také při podávání ústavní
 
 ## Souboj i spolupráce
 
-Právě zdánlivý boj u kontroverzních návrhů nemusí neprobíhat jen na úrovni komor, ale i na půdě každé z nich. Příkladem vleklého schvalování návrhu s nejasným koncem je zákon o svobodném přístupu k informacím. Vůbec první znění vzniklo už v roce 1996 spoluprací někdejšího senátora Michaela Žantovského a bývalého poslance Oldřicha Kužílka.
+Právě zdánlivý boj u kontroverzních návrhů nemusí probíhat jen na úrovni komor, ale i na půdě každé z nich. Příkladem vleklého schvalování návrhu s nejasným koncem je zákon o svobodném přístupu k informacím. Vůbec první znění vzniklo už v roce 1996 spoluprací někdejšího senátora Michaela Žantovského a bývalého poslance Oldřicha Kužílka.
 
-„Už během přípravy návrhu jsme cítili odpor státní správy a uvědomovali jsme si, že je to na tu dobu riskantní zákon a nebude jednoduché ho prosadit. Návrh jsme tak podali jak v Senátu, tak v Poslanecké sněmovně,“ popisuje pro server iROZHLAS.cz navrhovatel zákona Oldřich Kužílek, nyní poradce pro otevřenost veřejné správy a ochranu soukromí a zastupitel městské části Praha 6 za hnutí STAN.
+„Už během přípravy návrhu jsme se senátorem Michaelem Žantovským cítili odpor státní správy a uvědomovali jsme si, že je to na tu dobu riskantní zákon a nebude jednoduché ho prosadit. Návrh jsme tak podali jak v Senátu, tak v Poslanecké sněmovně,“ popisuje pro server iROZHLAS.cz spolunavrhovatel zákona někdejší poslanec Oldřich Kužílek, nyní poradce pro otevřenost veřejné správy a ochranu soukromí a zastupitel městské části Praha 6 za hnutí STAN.
 
 Senátní návrh zákona, který je nyní znám pod zkratkou 106 a garantuje přístup k informacím držených státem, zůstal „zaparkovaný“ v horní komoře. Jeho „dvojníka“ čekala ve sněmovně dlouhá bitva.
 
-„Jednotlivé výbory návrh upravovaly, až to nakonec Poslanecká sněmovna posunula Senátu v hodně obměněné podobě,“ popisuje Kužílek. V horní komoře ale také nebylo předem vyhráno. „Blížil se konec volebního období díky protiústavnímu rozpuštění sněmovny v roce 1998, ještě před tím se zařadilo hlasování v Senátu o návrhu našeho zákona. Tehdy asi o čtyři hlasy neprošel,“ popisuje zdánlivý konec poutě sněmovního tisku Kužílek. 
+„Jednotlivé výbory poslanecký návrh upravovaly, až ho nakonec Poslanecká sněmovna posunula Senátu v hodně obměněné podobě, například vypadly sankce,“ popisuje Kužílek. V horní komoře ale také nebylo předem vyhráno. „Nečekaně se blížil konec volebního období díky protiústavnímu rozpuštění sněmovny v roce 1998, ještě před tím se zařadilo hlasování v Senátu o návrhu našeho zákona. Tehdy o dva hlasy neprošel,“ popisuje zdánlivý konec poutě sněmovního tisku Kužílek.
 
-„V tu chvíli jsme si vzpomněli, že máme v Senátu zaparkovanou senátní verzi, která ale v této chvíli byla v původní podobě. Jedním hlasováním se zařídila jeho proměna do sněmovní podoby a návrh se podal jako senátní,“ pokračuje. Senátní verze nakonec opravdu koncem roku 1998 postoupila zpět do sněmovny a po podpisu prezidentem republiky nabyla platnost na přelomu století. 
+„V tu chvíli jsme ocenili, že máme v Senátu přichystanou senátní verzi, která ale v této chvíli byla v původní podobě. Jedním hlasováním se zařídila její proměna do již projednané sněmovní podoby a návrh se podal jako senátní,“ pokračuje. 
+
+Senátní verze nakonec opravdu v létě roku 1998 postoupila znovu do sněmovny, nyní jako senátní návrh. Sněmovna ji projednávala od října 1998 do února 1999, kdy ji přes odpor klubu ODS schválila a postoupila zase Senátu. Senátní výbory ji projednaly v únoru 1999 a v březnu Senát návrh opět vrátil sněmovně s drobnými pozměňovacími návrhy. 
+
+Sněmovna pak dne 11. 5. 1999 přijala zákon ve znění vráceném Senátem. Po podpisu prezidentem republiky 27. 5. 1999 a vyhlášení ve Sbírce zákonů nabyl platnosti 8. 6. 1999. Účinný začal být od přelomu století.
